@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #e1444d;
+  background: #516E32;
   color: #fff;
 }
 
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #e1444d;
+  background: #516E32;
   color: #fff;
 }
 
@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #df3740;
+  background: #516E32;
 }
 
 @media (max-width: 992px) {
@@ -550,7 +550,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #e6636a;
+  background: #516E32;
   margin: 4px 10px;
 }
 
@@ -1129,7 +1129,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: #e1444d;
+  background: #516E32;
 }
 
 .pricing .featured h3 {
@@ -1536,7 +1536,7 @@ section {
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #e1444d;
+  background: #516E32;
 }
 
 .blog .entry .entry-content h3 {
@@ -2115,7 +2115,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #df3740;
+  background: ##516E32;
 }
 
 #footer .copyright {
