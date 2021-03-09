@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.row-center {
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -95,6 +99,10 @@ h1, h2, h3, h4, h5, h6 {
   #header {
     padding: 12px 0;
   }
+}
+
+.tech i {
+  color: #4eaf46;
 }
 
 /*--------------------------------------------------------------
@@ -222,6 +230,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
+  background: #516E32;
+  color: #fff;
+}
+
+@media (max-width: 991px) {
+  .get-started-btn {
+    margin: 0 48px 0 0;
+    padding: 6px 18px;
+  }
+}
+
+/* Know More */
+.know-more-btn {
+  background: #4eaf46;
+  color: #fff;
+  border-radius: 4px;
+  padding: 8px 30px 9px 30px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 22px;
+  font-family: 'Raleway';
+  display: inline-block;
+}
+
+.know-more-btn:hover {
   background: #516E32;
   color: #fff;
 }
@@ -1040,6 +1073,17 @@ section {
     background: #67AE1C;
   }
 }
+
+
+/*--------------------------------------------------------------
+# Tech Section
+--------------------------------------------------------------*/
+
+.tech {
+  background-color: #f4fff4;
+  padding: 0px;
+}
+
 
 /*--------------------------------------------------------------
 # Pricing
